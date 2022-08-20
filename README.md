@@ -1,13 +1,16 @@
-# MemeLib
+# MemeLib - meme sharing Android app
+> Meme Sharing  Android mobile app created with Kotlin and Java.
+
+<img src = "./screenshots/icon.png" height=80>
 
 ## Table of Contents
-1. [Overview](#Overview)
-1. [Product Spec](#Product-Spec)
-1. [Wireframes](#Wireframes)
-1. [Schema](#Schema)
-1. [Milestones](#Milestones)
+- [1 Overview](#1-overview)
+- [2 Product Spec](#2-product-spec)
+- [3 Wireframes](#3-wireframes)
+- [4 Schema](#4-schema)
+- [5 Milestones](#5-milestones)
 
-## Overview
+## 1 Overview
 ### Description
 MemeLib is an entertainment app that allows people to easily store memes, put them in collections and favorites, share memes across the world with others, upload their own memes and explore memes on the internet or memes created by other users. Our goal is to enable people to share memes fast and easily on social media and make people laugh.
 
@@ -19,7 +22,7 @@ MemeLib is an entertainment app that allows people to easily store memes, put th
 - **Habit:** This app could be used as often or unoften as the user wanted depending on whether they are looking for a meme to send their friends, co-workers, families, or can be used if they want to have a laugh.
 - **Scope:** People can use this app to store their favorite memes or put their memes in collections to easily find their memes and explore more memes. Large potential use for social media apps such as WhatsApp, Instagram, Facebook, Discord to find funny/reaction GIFs, pictures to share with others.
 
-## Product Spec
+## 2 Product Spec
 ### 1. User Stories (Required and Optional)
 
 **Required Must-have Stories**
@@ -90,7 +93,7 @@ Click [here](https://kbz9pk.axshare.com) to play with the interactive prototype 
 
 
 
-## Schema 
+## 4 Schema 
 ### Models
 #### Post
 
@@ -175,7 +178,7 @@ Click [here](https://kbz9pk.axshare.com) to play with the interactive prototype 
        }
        ```
        
-       ## Milestones
+       ## 5 Milestones
        
        ### Milestone 1
        
